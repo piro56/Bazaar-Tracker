@@ -14,8 +14,8 @@ Some useful operations are:
 This code was written a while ago when I believe I did not have as firm of a grasp on programming as I do know.
 Improvements that could be made on this code would be:
 - Instead of hardcoding the crafting recipes and items in BazaarItems.cs, I could read from a JSON or different way of organizing data to help make the program more easily modifiable and readable.
-- Move the relevant functional code into it's own utility class to help code readability
-- Comment the code and it's function. 
-- Theres many other slight improvements that can be made (repeating functions, better optimizations, etc.) 
+- Move some functions and repeated code into a utility class to help reduce code duplication, and improve organization.
+- Add more comments. 
+- Many many more...
 
 ## Thank you for taking the time to check out my project!
