@@ -18,4 +18,3 @@ Improvements that could be made on this code would be:
 - Add more comments. 
 - Many many more...
 
-## Thank you for taking the time to check out my project!
